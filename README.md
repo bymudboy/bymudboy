@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Luís Gabriel
 
-## 💼 Perfil Profissional (teste)
+## 💼 Perfil Profissional 
 
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
